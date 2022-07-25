@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bilalahmedkhann [Bilal Ahmed Khan]
-- 👀 I’m interested in ...Data Science, Data Analysis, Python, SQL
+- 👀 I’m interested in ...Data Science, Java, Python, SQL
 - 🌱 I’m currently learning ...Bi Tools, Machine Learning.
 - 💞️ I’m looking to collaborate on ... Data Analysis project using Tableau, Power Bi, Sql and Python.
 - 📫 Reach me at ... Email: bilal.ahmed98@gmail.com
